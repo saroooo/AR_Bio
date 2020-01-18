@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="trees" size="0.230000 0.132889" />
+    <ImageTarget name="334093165-Lion_Model-3ds_Max" size="0.150000 0.112435" />
+    <ImageTarget name="monkey" size="0.230000 0.153333" />
+    <ImageTarget name="dragon" size="0.230000 0.107333" />
+    <ImageTarget name="giraffe" size="0.230000 0.230000" />
+    <ImageTarget name="hen" size="0.250000 0.195312" />
+    <ImageTarget name="33412025" size="0.050000 0.074764" />
+    <ImageTarget name="dolphin" size="0.230000 0.180080" />
+    <ImageTarget name="cow" size="0.230000 0.138000" />
+  </Tracking>
+</QCARConfig>
